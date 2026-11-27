@@ -1,0 +1,8 @@
+{
+  "name": "Remix E-Commerce Discount Engine",
+  "description": "Smart e-commerce catalog, shopping cart, anti-stacking discount engine, checkout invoicing, and sales analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
